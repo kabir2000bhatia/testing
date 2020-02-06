@@ -1,0 +1,101 @@
+
+body{
+	font-size: 20px;
+	font-family: arial;
+	background-color: #000000;
+	color: white;
+}
+
+.head {
+	color: rgba(80,100,50);
+	font-size: 50px;
+	text-align: center;
+	text-decoration: underline;
+	margin-bottom: 25px;
+}
+h1{
+	text-align: center;
+	color: #ffd700;
+	text-decoration-line: underline;
+}
+h2{
+	text-align: center;
+	color: rgba(0,0,100);
+	margin-top: 20px;
+	text-decoration-line: underline;
+}
+h3{
+	margin-top: 20px;
+	text-align: center;
+	color: #ff6347;
+	text-decoration-line: underline;
+}
+h4 {
+	margin-top: 20px;
+	text-align: left;
+	color: purple;
+	text-decoration: underline;
+}
+h5 {
+	text-align: left;
+	color: rgb(0,75,40);
+}
+.container{
+	margin-left: 2px;
+}
+.block{
+	display: block;
+	
+	
+	box-sizing: border-box;
+	text-align: justify;
+}
+p{
+	text-align: center;
+	font-size: 20px;
+
+}
+ul {
+	font-size: 20px;
+
+}
+.photo {
+	display: block;
+	margin: 0 auto;
+	width: 14%;
+}
+.head6{
+	color: rgba(0,0,100);
+	font-size: 40px;
+	text-align: center;
+	text-decoration: underline;
+	margin-bottom: 25px;
+}
+.head4{
+	text-align: center;
+	color: rgba(0,100,0);
+	font-size: 40px;
+	text-decoration: underline;
+}
+.positive{
+	color: rgba(100,20,100);
+	font-size: 35px;
+	text-align: center;
+	margin-top: 30px;
+	text-decoration: underline;
+	
+}
+.let{
+	font-weight: lighter;
+	}
+.answer{
+	font-size: 20px;
+	text-align: left;
+	margin-top: 50px;
+	color: rgba(100,100,100);
+}
+.para{
+	margin-top: 50px;
+	text-align: left;
+	font-size: 30px;
+}
